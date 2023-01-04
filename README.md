@@ -11,4 +11,9 @@ https://github.com/gnome-terminator/terminator
 <br>
 Bash GitPrompt (Configure ubuntu setup)
 <br>
-https://github.com/magicmonty/bash-git-prompt
+https://github.com/magicmonty/bash-git-prompt<br>
+Gnome Extensions<br>
+- Arc Menu<br>
+- DashtoPanel<br>
+- Desktop Icons<br>
+- ScreenShot Tool<br> 
